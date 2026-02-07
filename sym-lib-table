@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PI7C9X440SLBFDE")(type "KiCad")(uri "${KIPRJMOD}/PI7C9X440SLBFDE/PI7C9X440SLBFDE.kicad_sym")(options "")(descr ""))
+)
