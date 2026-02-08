@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "PI7C9X440SLBFDE")(type "KiCad")(uri "${KIPRJMOD}/PI7C9X440SLBFDE.pretty")(options "")(descr ""))
+  (lib (name "WLCSP4_0P84X0P86_ONS")(type "KiCad")(uri "${KIPRJMOD}/ul_CAT24C04C4ATR/footprints.pretty/WLCSP4_0P84X0P86_ONS.pretty")(options "")(descr ""))
+  (lib (name "WE-XTAL_CFPX-104")(type "KiCad")(uri "${KIPRJMOD}/WE-XTAL_CFPX-104/WE-XTAL_CFPX-104.pretty")(options "")(descr ""))
 )
